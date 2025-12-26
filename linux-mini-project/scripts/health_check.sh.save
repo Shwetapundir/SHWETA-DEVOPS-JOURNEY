@@ -1,0 +1,19 @@
+🚀⚙️ DevOps Learning Update | Linux Automation & Security (Day 10–12)
+
+Moving deeper into real DevOps workflows by focusing on automation, scheduling, and security — the things that actually keep systems running reliably in production 💻🔧
+
+🧾 Day 10 – Shell Scripting (Automation Basics)
+✔️ Wrote shell scripts to automate system health checks, disk monitoring, and service status
+✔️ Understood how DevOps uses scripts inside CI/CD pipelines and cron jobs
+✔️ Learned why automation is preferred over manual intervention
+
+⏱️ Day 11 – Cron Jobs (Task Scheduling)
+✔️ Scheduled scripts to run automatically at fixed intervals
+✔️ Practiced output & error redirection for debugging
+✔️ Learned the difference between cron behavior on WSL vs real production servers
+✔️ Understood why log growth and scheduling frequency matter in real environments
+
+🔐 Day 12 – Linux Security Basics
+✔️ Practiced secure permission handling for scripts and sensitive files
+✔️ Understood root vs normal users and the importance of sudo
+✔️ Learned the Princi
